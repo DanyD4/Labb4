@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/recept.iml" filepath="$PROJECT_DIR$/recept.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/bolognese.iml" filepath="$PROJECT_DIR$/bolognese.iml" />
+>>>>>>> stefan
     </modules>
   </component>
 </project>
